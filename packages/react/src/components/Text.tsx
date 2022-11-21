@@ -32,3 +32,5 @@ export const Text = styled('h2', {
 export interface TextProps extends ComponentProps<typeof Text> {
   as?: ElementType
 }
+
+Text.displayName = 'Text'

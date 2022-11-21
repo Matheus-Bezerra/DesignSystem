@@ -7,6 +7,13 @@ export default {
   args: {
     src: 'https://github.com/Matheus-Bezerra.png',
     alt: 'Matheus Bezerra',
+  },
+  argTypes: {
+    sec: {
+      control: {
+        type: 'text'
+      }
+    }
   }
 } as Meta<AvatarProps>
 
