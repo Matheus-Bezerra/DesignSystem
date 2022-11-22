@@ -9,7 +9,7 @@ export default {
     alt: 'Matheus Bezerra',
   },
   argTypes: {
-    sec: {
+    src: {
       control: {
         type: 'text'
       }
