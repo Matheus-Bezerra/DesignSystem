@@ -1,0 +1,2 @@
+import{A as t}from"./index.bbcfa92b.js";import"./index.434aa404.js";import"./iframe.af51e0ee.js";import"./index.f842c2bb.js";import"./jsx-runtime.9f0a6314.js";const i={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/Matheus-Bezerra.png",alt:"Matheus Bezerra"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.02980664.js.map
